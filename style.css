@@ -81,7 +81,7 @@ input[name] {
 	font-weight: bold;
 	border: 0;
 	font-size: 95px;
-	width: calc(100%-80px);
+	width: calc(100% - 80px);
 }
 
 input::placeholder {
